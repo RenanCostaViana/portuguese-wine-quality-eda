@@ -56,7 +56,7 @@ O objetivo é identificar padrões, correlações e fatores que influenciam a qu
 ---
 
 ## 🧠 Insights Relevantes
-Alguns exemplos que você pode adaptar conforme sua análise:
+
 - O teor alcoólico é uma das variáveis mais fortemente associadas à qualidade do vinho
 - Vinhos com menor acidez volátil tendem a receber notas mais altas
 - A densidade apresenta relação inversa com a qualidade
@@ -75,7 +75,7 @@ jupyter notebook wine-quality-eda.ipynb
 3. Execute as células na ordem indicada.
 
 ##📬 Contato
-LinkedIn: https://linkedin.com/in/renancostaviana (linkedin.com in Bing)  
+LinkedIn: https://linkedin.com/in/renancostaviana
 E-mail: renan.cv@outlook.com.br
 
 **✨ Projeto desenvolvido para demonstrar domínio em análise exploratória aplicada a dados químicos e sensoriais.**
